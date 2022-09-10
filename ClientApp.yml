@@ -1,5 +1,6 @@
 spring:
   profiles:
-    include: application-data
+    include:
+      - data
 dataa:
   msg: msgg is working
